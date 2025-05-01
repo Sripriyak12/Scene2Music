@@ -28,13 +28,13 @@ A curated dataset of 7000+ scene-caption pairs used to train the T5-large model 
 
 ### Example
 
-json
+```json
 {
   "scene": "A motivational startup launch video showcasing innovation and teamwork.",
   "caption": "This electronic song, infused with pop elements, exudes a joyful and motivational atmosphere... tempo of 130 bpm, in the key of A minor."
 }
 
-
+```
 ## 💡 Example
 
 *Prompt:*  
